@@ -2,22 +2,6 @@
 
 A responsive web application where students request a transport pass and an admin reviews, approves or rejects those requests. Built with plain HTML, CSS and JavaScript, with no backend or framework.
 
-## Project details
-
-| | |
-|---|---|
-| Project title | Student Transport Pass Request System |
-| Team name | YOUR-TEAM-NAME |
-| Course code | YOUR-COURSE-CODE |
-
-**Team members**
-
-| Name | Registration number |
-|---|---|
-| Member 1 | 00000000 |
-| Member 2 | 00000000 |
-| Member 3 | 00000000 |
-
 ## Problem statement
 
 Develop a responsive web-based solution for a student transport pass request system that organizes the required information, simplifies the main workflow, supports clear user actions, and provides useful status or summary views.
