@@ -2,9 +2,6 @@
 
 A responsive web application where students request a transport pass and an admin reviews, approves or rejects those requests. Built with plain HTML, CSS and JavaScript, with no backend or framework.
 
-**Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
-**Video presentation:** PASTE-VIDEO-LINK-HERE
-
 ## Project details
 
 | | |
