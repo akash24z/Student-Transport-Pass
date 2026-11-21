@@ -61,12 +61,6 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 ```
 
-## Admin login (demo)
-
-| Username | Password |
-|---|---|
-| `admin` | `admin123` |
-
 ## Project structure
 
 ```
